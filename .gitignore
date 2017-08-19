@@ -2,6 +2,10 @@
 *.csv
 Readme.txt
 
+# pickle
+*.p
+save*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
