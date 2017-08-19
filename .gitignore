@@ -1,6 +1,14 @@
 # Dataset
 *.csv
 Readme.txt
+data/
+cifar*
+image*
+
+
+# pickle
+*.p
+save*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
